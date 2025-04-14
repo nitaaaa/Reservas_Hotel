@@ -1,0 +1,17 @@
+/* HotelDetailPage.css */
+
+.hotel-detail {
+    max-width: 800px;
+    margin: 3rem auto;
+  }
+  
+  .hotel-detail .card {
+    margin-top: 1rem;
+  }
+  
+  .hotel-detail .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  

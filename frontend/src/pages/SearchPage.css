@@ -1,0 +1,15 @@
+/* SearchPage.css */
+
+.search-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.search-grid {
+  gap: 1.5rem;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
